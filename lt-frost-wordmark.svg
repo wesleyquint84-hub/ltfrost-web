@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="250" viewBox="0 0 980 250">
+ <defs><linearGradient id="ice" x2="0" y2="1"><stop stop-color="#e7faff"/><stop offset="1" stop-color="#66c5eb"/></linearGradient></defs>
+ <path d="M116 10 216 48v80c0 60-38 96-100 122-62-26-100-62-100-122V48z" fill="#0b121a" stroke="url(#ice)" stroke-width="10"/>
+ <path d="M61 151h110v9H61zm0-34h88v9H61zm0-34h66v9H61z" fill="url(#ice)"/>
+ <g transform="translate(176 81) scale(.31)" fill="none" stroke="#f1fcff" stroke-width="12" stroke-linecap="round"><path d="M0-70V70M-61-35 61 35M-61 35 61-35"/></g>
+ <text x="270" y="132" fill="url(#ice)" font-family="Arial Narrow,Arial,sans-serif" font-size="110" font-weight="900" letter-spacing="4">LT. FROST</text>
+</svg>

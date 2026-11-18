@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+ <defs><pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#99bfd0" stroke-opacity=".08"/></pattern><linearGradient id="land" x2="0" y2="1"><stop stop-color="#202c32"/><stop offset="1" stop-color="#10191d"/></linearGradient></defs>
+ <rect width="1280" height="720" fill="url(#land)"/><rect width="1280" height="720" fill="url(#grid)"/>
+ <path d="M0 520 Q250 480 490 390T920 250 1280 190" fill="none" stroke="#527d8a" stroke-width="4" stroke-dasharray="10 12" opacity=".65"/>
+ <path d="M152 546 C270 475 356 444 470 396 S685 363 765 304 905 236 1036 240 1124 202 1177 167" fill="none" stroke="#83d8f3" stroke-width="9" stroke-linecap="round" stroke-dasharray="16 14"/>
+ <g fill="#071016" stroke="#a8e9ff" stroke-width="5"><circle cx="152" cy="546" r="18"/><circle cx="470" cy="396" r="18"/><circle cx="765" cy="304" r="18"/><circle cx="1036" cy="240" r="18"/><circle cx="1177" cy="167" r="18"/></g>
+ <g fill="#e7faff" font-family="Arial,sans-serif" font-weight="700" letter-spacing="3"><text x="122" y="600" font-size="26">NORMANDIË</text><text x="420" y="452" font-size="26">AMIENS</text><text x="713" y="360" font-size="26">ARRAS</text><text x="952" y="296" font-size="26">BRUSSEL</text><text x="1070" y="126" font-size="26">ANTWERPEN</text></g>
+ <text x="58" y="76" fill="#83d8f3" font-family="monospace" font-size="22" letter-spacing="5">GEALLIEERDE OPMARS · ZOMER 1944</text>
+ <text x="58" y="674" fill="#c4d1d8" font-family="Arial,sans-serif" font-size="20">Schematische campagnekaart · geen historische luchtfoto</text>
+</svg>
